@@ -1,0 +1,1146 @@
+﻿Log file open, 11/30/20 09:29:09
+LogInit: Display: Running engine for game: InventorySystemTest
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.177325
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080 SUPER
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.11.30-09.29.10:045][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.11.30-09.29.10:045][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.11.30-09.29.10:045][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/Config/Windows/Engine.ini]
+[2020.11.30-09.29.10:045][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.11.30-09.29.10:045][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/Config/Windows/Engine.ini]
+[2020.11.30-09.29.10:045][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/Config/Windows/Engine.ini]
+[2020.11.30-09.29.10:045][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.11.30-09.29.10:045][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.11.30-09.29.10:045][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.11.30-09.29.10:045][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.11.30-09.29.10:045][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.11.30-09.29.10:045][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.11.30-09.29.10:045][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.11.30-09.29.10:045][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.11.30-09.29.10:045][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.11.30-09.29.10:045][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.11.30-09.29.10:045][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.11.30-09.29.10:045][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.11.30-09.29.10:045][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.11.30-09.29.10:045][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.11.30-09.29.10:045][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/Config/Windows/Engine.ini]
+[2020.11.30-09.29.10:045][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.11.30-09.29.10:045][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.11.30-09.29.10:045][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.11.30-09.29.10:045][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.11.30-09.29.10:045][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.11.30-09.29.10:045][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.11.30-09.29.10:045][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.11.30-09.29.10:045][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.11.30-09.29.10:045][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.11.30-09.29.10:045][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.11.30-09.29.10:045][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.11.30-09.29.10:045][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.11.30-09.29.10:045][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.11.30-09.29.10:045][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/Config/Windows/Engine.ini]
+[2020.11.30-09.29.10:045][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/Config/Windows/Engine.ini]
+[2020.11.30-09.29.10:049][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/Config/Windows/Scalability.ini]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/Config/Windows/Scalability.ini]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/Config/Windows/Scalability.ini]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/Config/Windows/Scalability.ini]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/Config/Windows/Scalability.ini]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/Config/Windows/Scalability.ini]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.30-09.29.10:050][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/Config/Windows/Scalability.ini]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/Config/Windows/Scalability.ini]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.11.30-09.29.10:051][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.30-09.29.10:051][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.11.30-09.29.10:051][  0]LogHAL: Display: Platform has ~ 64 GB [68630339584 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.11.30-09.29.10:051][  0]LogInit: Going up to parent DeviceProfile []
+[2020.11.30-09.29.10:051][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/Config/Windows/Scalability.ini]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/Config/Windows/Scalability.ini]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/Config/Windows/Scalability.ini]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/Config/Windows/Scalability.ini]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/Config/Windows/Scalability.ini]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/Config/Windows/Scalability.ini]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.30-09.29.10:051][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/Config/Windows/Scalability.ini]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/Config/Windows/Scalability.ini]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.11.30-09.29.10:052][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/Config/Windows/Engine.ini]
+[2020.11.30-09.29.10:052][  0]LogInit: Computer: DESKTOP-0FPJM9P
+[2020.11.30-09.29.10:052][  0]LogInit: User: jonm
+[2020.11.30-09.29.10:052][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.11.30-09.29.10:052][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.11.30-09.29.10:052][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2020.11.30-09.29.10:052][  0]LogMemory: Platform Memory Stats for Windows
+[2020.11.30-09.29.10:052][  0]LogMemory: Process Physical Memory: 119.86 MB used, 119.86 MB peak
+[2020.11.30-09.29.10:052][  0]LogMemory: Process Virtual Memory: 98.13 MB used, 98.13 MB peak
+[2020.11.30-09.29.10:052][  0]LogMemory: Physical Memory: 10496.77 MB used,  54954.23 MB free, 65450.99 MB total
+[2020.11.30-09.29.10:052][  0]LogMemory: Virtual Memory: 5187.18 MB used,  134212544.00 MB free, 134217728.00 MB total
+[2020.11.30-09.29.10:056][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.11.30-09.29.10:096][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.11.30-09.29.10:099][  0]LogInit: Using OS detected language (en-GB).
+[2020.11.30-09.29.10:099][  0]LogInit: Using OS detected locale (en-GB).
+[2020.11.30-09.29.10:104][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.11.30-09.29.10:242][  0]LogInit: Setting process to per monitor DPI aware
+[2020.11.30-09.29.10:271][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.11.30-09.29.10:271][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.11.30-09.29.10:393][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.30-09.29.10:393][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.11.30-09.29.10:393][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.11.30-09.29.10:393][  0]LogD3D11RHI: D3D11 adapters:
+[2020.11.30-09.29.10:479][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 SUPER' (Feature Level 11_0)
+[2020.11.30-09.29.10:479][  0]LogD3D11RHI:       8010/0/32725 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.11.30-09.29.10:481][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.11.30-09.29.10:481][  0]LogD3D11RHI:       0/0/32725 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.11.30-09.29.10:481][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.11.30-09.29.10:485][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.11.30-09.29.10:486][  0]LogD3D11RHI:     GPU DeviceId: 0x1e81 (for the marketing name, search the web for "GPU Device Id")
+[2020.11.30-09.29.10:486][  0]LogWindows: EnumDisplayDevices:
+[2020.11.30-09.29.10:486][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080 SUPER' (P:0 D:1)
+[2020.11.30-09.29.10:486][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080 SUPER' (P:1 D:1)
+[2020.11.30-09.29.10:486][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080 SUPER' (P:0 D:0)
+[2020.11.30-09.29.10:486][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 SUPER' (P:0 D:0)
+[2020.11.30-09.29.10:486][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.11.30-09.29.10:486][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 SUPER
+[2020.11.30-09.29.10:486][  0]LogD3D11RHI:   Driver Version: 457.30 (internal:27.21.14.5730, unified:457.30)
+[2020.11.30-09.29.10:486][  0]LogD3D11RHI:      Driver Date: 11-6-2020
+[2020.11.30-09.29.10:486][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2020.11.30-09.29.10:542][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.11.30-09.29.10:542][  0]LogD3D11RHI: Async texture creation enabled
+[2020.11.30-09.29.10:542][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.11.30-09.29.10:557][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.11.30-09.29.10:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.11.30-09.29.10:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.11.30-09.29.10:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.11.30-09.29.10:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.11.30-09.29.10:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.11.30-09.29.10:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.11.30-09.29.10:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.11.30-09.29.10:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.11.30-09.29.10:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.11.30-09.29.10:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.11.30-09.29.10:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.11.30-09.29.10:848][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.11.30-09.29.10:848][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.11.30-09.29.10:857][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.11.30-09.29.10:866][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.11.30-09.29.10:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.11.30-09.29.10:883][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.11.30-09.29.10:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.11.30-09.29.10:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.11.30-09.29.10:908][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.11.30-09.29.10:932][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.11.30-09.29.10:932][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.11.30-09.29.10:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.11.30-09.29.10:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.11.30-09.29.10:956][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.11.30-09.29.10:964][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.11.30-09.29.10:973][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.11.30-09.29.10:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.11.30-09.29.10:981][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.11.30-09.29.10:988][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.11.30-09.29.11:037][  0]LogShaderCompilers: Guid format shader working directory is -37 characters bigger than the processId version (../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Intermediate/Shaders/WorkingDirectory/15448/).
+[2020.11.30-09.29.11:037][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jon_m/AppData/Local/Temp/UnrealShaderWorkingDir/B47EFC2742D10672013964893646E23D/'.
+[2020.11.30-09.29.11:038][  0]LogXGEController: Cleaning working directory: C:/Users/jon_m/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.11.30-09.29.11:038][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.11.30-09.29.11:038][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.11.30-09.29.11:038][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.11.30-09.29.11:763][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.11.30-09.29.11:807][  0]LogDerivedDataCache: Loaded boot cache 0.04s 75MB C:/Users/jon_m/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.11.30-09.29.11:807][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jon_m/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.11.30-09.29.11:807][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.11.30-09.29.11:807][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.11.30-09.29.11:807][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.30-09.29.11:807][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.11.30-09.29.11:817][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.11.30-09.29.11:817][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.30-09.29.11:817][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.11.30-09.29.11:818][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jon_m/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.11.30-09.29.11:818][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.11.30-09.29.11:818][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.11.30-09.29.11:865][  0]LogSlate: Using FreeType 2.10.0
+[2020.11.30-09.29.11:866][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.11.30-09.29.11:889][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2020.11.30-09.29.12:088][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.30-09.29.12:188][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.11.30-09.29.12:188][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.11.30-09.29.12:188][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.11.30-09.29.12:188][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.11.30-09.29.12:188][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.11.30-09.29.12:202][  0]LogNetVersion: InventorySystemTest 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 4196409639)
+[2020.11.30-09.29.12:582][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (00000214C471AAC0), frame # 0
+[2020.11.30-09.29.12:582][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000214C46B51C0), frame # 0
+[2020.11.30-09.29.12:583][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000214C46F5E00), frame # 0
+[2020.11.30-09.29.12:626][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.037856 seconds
+[2020.11.30-09.29.12:630][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.11.30-09.29.12:630][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.11.30-09.29.12:630][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.11.30-09.29.12:906][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.11.30-09.29.12:910][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.11.30-09.29.12:970][  0]SourceControl: Source control is disabled
+[2020.11.30-09.29.12:970][  0]SourceControl: Source control is disabled
+[2020.11.30-09.29.12:973][  0]SourceControl: Source control is disabled
+[2020.11.30-09.29.12:975][  0]SourceControl: Source control is disabled
+[2020.11.30-09.29.12:981][  0]SourceControl: Source control is disabled
+[2020.11.30-09.29.12:992][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.30-09.29.12:992][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.30-09.29.13:177][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.11.30-09.29.13:193][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.30-09.29.13:193][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.30-09.29.13:233][  0]LogOcInput: OculusInput pre-init called
+[2020.11.30-09.29.13:242][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.11.30-09.29.13:242][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.11.30-09.29.13:294][  0]LogEngine: Initializing Engine...
+[2020.11.30-09.29.13:295][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.30-09.29.13:295][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.11.30-09.29.13:295][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.11.30-09.29.13:394][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.11.30-09.29.13:400][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.11.30-09.29.13:400][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000214C97A0600), frame # 0
+[2020.11.30-09.29.13:400][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000214C97ACA40), frame # 0
+[2020.11.30-09.29.13:412][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.30-09.29.13:412][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.30-09.29.13:412][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.30-09.29.13:412][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.30-09.29.13:412][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.30-09.29.13:412][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.30-09.29.13:413][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.30-09.29.13:413][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.30-09.29.13:413][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.30-09.29.13:413][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.30-09.29.13:427][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.30-09.29.13:427][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.11.30-09.29.13:464][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.11.30-09.29.13:467][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.30-09.29.13:469][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.30-09.29.13:469][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.30-09.29.13:470][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.30-09.29.13:470][  0]LogInit: FAudioDevice initialized.
+[2020.11.30-09.29.13:470][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.11.30-09.29.13:507][  0]LogDerivedDataCache: Saved boot cache 0.04s 75MB C:/Users/jon_m/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.11.30-09.29.13:511][  0]LogInit: Texture streaming: Enabled
+[2020.11.30-09.29.13:524][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.11.30-09.29.13:524][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={6A93807E-4842-CA56-DC40-49B766E53557}
+[2020.11.30-09.29.13:524][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.11.30-09.29.13:526][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.11.30-09.29.13:584][  0]LogInit: Transaction tracking system initialized
+[2020.11.30-09.29.13:601][  0]BlueprintLog: New page: Editor Load
+[2020.11.30-09.29.13:657][  0]LocalizationService: Localization service is disabled
+[2020.11.30-09.29.13:721][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.30-09.29.13:721][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.30-09.29.13:780][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.11.30-09.29.13:780][  0]LogCook: Display: Mobile HDR setting 1
+[2020.11.30-09.29.13:883][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/' took 0.00s
+[2020.11.30-09.29.14:081][  0]SourceControl: Source control is disabled
+[2020.11.30-09.29.14:178][  0]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.11.30-09.29.16:646][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2020.11.30-09.29.16:646][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.30-09.29.16:662][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.30-09.29.17:578][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2020.11.30-09.29.17:579][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.30-09.29.17:584][  0]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/InventorySlot
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+/Game/Materials/CorkColour
+/Game/Inventory
+[2020.11.30-09.29.17:653][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.30-09.29.17:653][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.212
+[2020.11.30-09.29.17:654][  0]Cmd: MAP LOAD FILE="../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.30-09.29.17:655][  0]LightingResults: New page: Lighting Build
+[2020.11.30-09.29.17:655][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.11.30-09.29.17:655][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.30-09.29.17:655][  0]MapCheck: New page: Map Check
+[2020.11.30-09.29.17:655][  0]LightingResults: New page: Lighting Build
+[2020.11.30-09.29.17:669][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000214C97A0600), frame # 0
+[2020.11.30-09.29.17:669][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000214C97ACA40), frame # 0
+[2020.11.30-09.29.17:670][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.11.30-09.29.17:942][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.11.30-09.29.17:942][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000214BBF3CA00), frame # 0
+[2020.11.30-09.29.17:942][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000214C9896E80), frame # 0
+[2020.11.30-09.29.17:955][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.30-09.29.17:968][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.11.30-09.29.17:969][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.30-09.29.17:970][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.149ms to complete.
+[2020.11.30-09.29.17:970][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.316
+[2020.11.30-09.29.17:971][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.530
+[2020.11.30-09.29.18:039][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.30-09.29.18:045][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.30-09.29.18:051][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.30-09.29.18:057][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.30-09.29.18:063][  0]LogCollectionManager: Loaded 0 collections in 0.001293 seconds
+[2020.11.30-09.29.18:075][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/Collections/' took 0.00s
+[2020.11.30-09.29.18:075][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Developers/jonm/Collections/' took 0.00s
+[2020.11.30-09.29.18:075][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Collections/' took 0.00s
+[2020.11.30-09.29.18:075][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 3427 classes and 821 folders.
+[2020.11.30-09.29.18:077][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.11.30-09.29.18:128][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.11.30-09.29.18:129][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2020.11.30-09.29.18:148][  0]LogSlate: Took 0.000105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.11.30-09.29.18:151][  0]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.11.30-09.29.18:183][  0]LogRenderer: Reallocating scene render targets to support 1208x488 Format 10 NumSamples 1 (Frame:1).
+[2020.11.30-09.29.18:249][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.11.30-09.29.18:249][  0]LogLoad: (Engine Initialization) Total time: 9.81 seconds
+[2020.11.30-09.29.18:249][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.11.30-09.29.18:294][  0]LogAssetRegistry: Asset discovery search completed in 6.4055 seconds
+[2020.11.30-09.29.18:298][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2020.11.30-09.29.18:299][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.11.30-09.29.19:279][106]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.30-09.29.20:119][185]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.30-09.29.26:163][900]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StaminaPotion.StaminaPotion
+[2020.11.30-09.29.26:314][900]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 125 classes and 0 folders.
+[2020.11.30-09.29.27:111][900]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.11.30-09.29.27:150][901]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.11.30-09.29.28:419][ 42]LogSlate: Window 'StaminaPotion' being destroyed
+[2020.11.30-09.29.29:131][123]LogRenderer: Reallocating scene render targets to support 1208x708 Format 10 NumSamples 1 (Frame:1).
+[2020.11.30-09.29.30:908][332]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.11.30-09.29.30:908][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.30-09.29.51:529][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/CONSUME_POTION" FILE="../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Meshes/CONSUME_POTION.uasset" SILENT=true
+[2020.11.30-09.29.51:545][744]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/CONSUME_POTIOND6E0949241DE24D37827C79824F3E3B2.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Meshes/CONSUME_POTION.uasset'
+[2020.11.30-09.29.51:675][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.11.30-09.29.51:702][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.11.30-09.29.51:717][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.11.30-09.29.51:732][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthPotion" FILE="../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/HealthPotion.uasset" SILENT=true
+[2020.11.30-09.29.51:759][744]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/HealthPotion68622CD24FD05C22428D1CBA928C292A.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/HealthPotion.uasset'
+[2020.11.30-09.29.51:760][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ManaPotion" FILE="../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/ManaPotion.uasset" SILENT=true
+[2020.11.30-09.29.51:786][744]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/ManaPotion5B3F98894554631AE27B4E866C1E7231.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/ManaPotion.uasset'
+[2020.11.30-09.29.51:787][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaminaPotion" FILE="../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/StaminaPotion.uasset" SILENT=true
+[2020.11.30-09.29.51:814][744]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/StaminaPotionD357BE5A431C80F3CA20A9B3504800FA.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/StaminaPotion.uasset'
+[2020.11.30-09.29.51:870][744]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.30-09.29.51:870][744]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/CONSUME_POTION.CONSUME_POTION
+[2020.11.30-09.29.51:870][744]LogContentValidation: Display: Validating Blueprint /Game/HealthPotion.HealthPotion
+[2020.11.30-09.29.51:870][744]LogContentValidation: Display: Validating Blueprint /Game/ManaPotion.ManaPotion
+[2020.11.30-09.29.51:870][744]LogContentValidation: Display: Validating Blueprint /Game/StaminaPotion.StaminaPotion
+[2020.11.30-09.29.54:569][ 58]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Inventory.Inventory
+[2020.11.30-09.30.01:100][752]BlueprintLog: New page: Compile Inventory
+[2020.11.30-09.30.01:167][752]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.11.30-09.30.01:241][752]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.11.30-09.30.01:544][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory" FILE="../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Inventory.uasset" SILENT=true
+[2020.11.30-09.30.01:571][786]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/Inventory62E099C047B01F88D78DD68B686AC43C.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Inventory.uasset'
+[2020.11.30-09.30.01:585][786]AssetCheck: New page: Asset Save: Inventory
+[2020.11.30-09.30.01:585][786]LogContentValidation: Display: Validating WidgetBlueprint /Game/Inventory.Inventory
+[2020.11.30-09.30.03:934][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.11.30-09.30.05:739][ 56]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.30-09.30.07:594][ 56]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Textures/Inventory2.Inventory2
+[2020.11.30-09.30.08:300][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.11.30-09.30.08:324][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.11.30-09.30.08:347][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.30-09.30.12:719][200]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/jon_m/Pictures/UnrealEngineImages/Inventory2.png)
+[2020.11.30-09.30.12:725][200]LogTexture: Display: Building textures: Inventory2 (BGRA8, 1053X405)
+[2020.11.30-09.31.10:468][936]LogEditorTransaction: Undo Move Widget
+[2020.11.30-09.31.40:085][887]LogEditorTransaction: Undo Move Widget
+[2020.11.30-09.32.02:652][132]BlueprintLog: New page: Compile Inventory
+[2020.11.30-09.32.02:702][132]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.11.30-09.32.07:292][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.11.30-09.32.08:188][667]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.30-09.32.08:282][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.11.30-09.32.08:312][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.11.30-09.32.08:335][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.30-09.32.09:901][850]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InventorySlot.InventorySlot
+[2020.11.30-09.32.38:800][262]BlueprintLog: New page: Compile InventorySlot
+[2020.11.30-09.32.38:899][262]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.11.30-09.32.58:328][ 45]BlueprintLog: New page: Compile InventorySlot
+[2020.11.30-09.32.58:411][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.11.30-09.33.55:605][269]LogEditorTransaction: Undo Set Vector Property
+[2020.11.30-09.34.01:385][929]LogEditorTransaction: Undo Edit Width Override
+[2020.11.30-09.34.04:172][238]BlueprintLog: New page: Compile InventorySlot
+[2020.11.30-09.34.04:330][238]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.11.30-09.34.36:468][261]BlueprintLog: New page: Compile Inventory
+[2020.11.30-09.34.36:522][261]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.11.30-09.34.37:700][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory" FILE="../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Inventory.uasset" SILENT=true
+[2020.11.30-09.34.37:732][389]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/InventoryD4BA070F4C07F299B320BFA3D6D7B568.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Inventory.uasset'
+[2020.11.30-09.34.37:744][389]AssetCheck: New page: Asset Save: Inventory
+[2020.11.30-09.34.37:744][389]LogContentValidation: Display: Validating WidgetBlueprint /Game/Inventory.Inventory
+[2020.11.30-09.34.49:486][758]BlueprintLog: New page: Compile InventorySlot
+[2020.11.30-09.34.49:578][758]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.11.30-09.34.50:061][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySlot" FILE="../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/InventorySlot.uasset" SILENT=true
+[2020.11.30-09.34.50:111][804]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/InventorySlotC40C1FC04DCEFAD8E5426999466079B3.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/InventorySlot.uasset'
+[2020.11.30-09.34.50:126][804]AssetCheck: New page: Asset Save: InventorySlot
+[2020.11.30-09.34.50:126][804]LogContentValidation: Display: Validating WidgetBlueprint /Game/InventorySlot.InventorySlot
+[2020.11.30-09.34.55:646][462]LogEditorViewport: Clicking on Actor (LMB): Item2_C (Item2)
+[2020.11.30-09.34.58:229][751]Cmd: DELETE
+[2020.11.30-09.34.58:229][751]Cmd: ACTOR DELETE
+[2020.11.30-09.34.58:232][751]LogEditorActor: Deleted Actor: Item2_C
+[2020.11.30-09.34.58:261][751]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.11.30-09.34.58:262][751]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.11.30-09.35.05:554][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.11.30-09.35.05:594][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.11.30-09.35.05:644][612]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/ThirdPersonExampleMapBA54C4874CC9EF1E7991E4A5F0852B8A.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.30-09.35.05:678][612]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.111
+[2020.11.30-09.35.05:746][612]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/ThirdPersonExampleMap_BuiltData9290781A4D4CF38E0E2AB9AD16495560.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.11.30-09.35.05:750][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Inventory2" FILE="../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Textures/Inventory2.uasset" SILENT=true
+[2020.11.30-09.35.05:762][612]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/Inventory25B8CFF07475CDFB82DAB1795558FEE8D.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Textures/Inventory2.uasset'
+[2020.11.30-09.35.05:789][612]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.30-09.35.05:789][612]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.30-09.35.05:789][612]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.11.30-09.35.05:789][612]LogContentValidation: Display: Validating Texture2D /Game/Textures/Inventory2.Inventory2
+[2020.11.30-09.35.07:742][838]MapCheck: New page: Map Check
+[2020.11.30-09.35.07:755][838]LightingResults: New page: Lighting Build - 30 Nov 2020, 09:35:07
+[2020.11.30-09.35.07:786][838]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.11.30-09.35.07:810][838]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.11.30-09.35.07:820][838]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.11.30-09.35.08:334][838]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.11.30-09.35.08:334][838]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15448
+[2020.11.30-09.35.14:744][838]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.11.30-09.35.14:744][838]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.11.30-09.35.14:744][838]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.11.30-09.35.14:744][838]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.11.30-09.35.14:744][838]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.11.30-09.35.14:878][838]LogEditorBuildUtils: Build time 0:07
+[2020.11.30-09.35.15:284][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.11.30-09.35.18:022][926]Job is a success!
+[2020.11.30-09.35.18:103][928]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2020.11.30-09.35.18:103][928]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.11.30-09.35.18:103][928]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.11.30-09.35.18:103][928]LogVolumetricLightmapImport:      Bricks at depth
+[2020.11.30-09.35.18:103][928]LogVolumetricLightmapImport:          0: 2.3% covering 100.0% of volume
+[2020.11.30-09.35.18:103][928]LogVolumetricLightmapImport:          1: 9.1% covering 6.2% of volume
+[2020.11.30-09.35.18:103][928]LogVolumetricLightmapImport:          2: 88.6% covering 1.0% of volume
+[2020.11.30-09.35.18:104][928]LogVolumetricLightmapImport:      Bricks in each level
+[2020.11.30-09.35.18:104][928]LogVolumetricLightmapImport:          ThirdPersonExampleMap 			 44 bricks 	 100.0% (Persistent Level)
+[2020.11.30-09.35.18:314][928]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2020.11.30-09.35.18:314][928]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.11.30-09.35.18:315][928]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.11.30-09.35.18:315][928]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2020.11.30-09.35.18:315][928]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2020.11.30-09.35.18:315][928]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2020.11.30-09.35.18:430][928]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2020.11.30-09.35.18:430][928]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X512)
+[2020.11.30-09.35.18:430][928]Lightmass on DESKTOP-0FPJM9P: 2.66 sec total, 120 ms importing, 13 ms setup, 523 ms photons, 1.96 sec processing, 0 ms extra exporting [6/6 mappings]. Threads: 29.4 sec total, 2.39 sec processing.
+[2020.11.30-09.35.18:430][928]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 6 meshes in 2 LightmapResourceClusters (3.0 Meshes per cluster).
+[2020.11.30-09.35.18:461][928]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.11.30-09.35.18:493][928]LogStaticLightingSystem: Illumination: 10.6 sec (194 ms encoding lightmaps, 90 ms encoding shadowmaps)
+[2020.11.30-09.35.18:493][928]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.11.30-09.35.18:493][928]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.11.30-09.35.18:749][928]DumpUnbuiltLightIteractions
+[2020.11.30-09.35.18:749][928]Lights with unbuilt interactions: 0
+[2020.11.30-09.35.18:749][928]
+[2020.11.30-09.35.18:749][928]Primitives with unbuilt interactions: 0
+[2020.11.30-09.35.18:825][929]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.11.30-09.35.18:825][929]MapCheck: New page: ThirdPersonExampleMap - 30 Nov 2020, 09:35:18
+[2020.11.30-09.35.18:825][929]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.375ms to complete.
+[2020.11.30-09.36.02:231][119]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.11.30-09.36.04:137][119]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.30-09.36.06:002][336]LogEditorViewport: Clicking on Actor (LMB): HealthPotion_C (Item_Mesh)
+[2020.11.30-09.36.10:025][808]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.11.30-09.36.13:836][808]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.30-09.36.15:147][808]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/DataTutorial/Potion.Potion
+[2020.11.30-09.36.15:386][808]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.11.30-09.36.15:624][808]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.11.30-09.36.15:651][808]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.11.30-09.36.15:676][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.11.30-09.36.16:404][876]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.11.30-09.36.18:035][876]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.30-09.36.18:474][876]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/DataTutorial/ItemUse.ItemUse
+[2020.11.30-09.36.18:976][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.11.30-09.36.19:002][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.11.30-09.36.19:026][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.11.30-09.36.19:677][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.11.30-09.36.20:480][935]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.30-09.36.20:559][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.11.30-09.36.20:593][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.11.30-09.36.20:619][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.11.30-09.36.21:175][997]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.11.30-09.36.29:074][997]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.30-09.36.33:585][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.11.30-09.36.35:096][505]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.30-09.36.37:410][771]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/CONSUME_POTION.CONSUME_POTION
+[2020.11.30-09.36.37:753][771]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.11.30-09.36.37:753][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.30-09.36.40:059][969]LogStaticMesh: Building static mesh CONSUME_POTION...
+[2020.11.30-09.36.40:084][969]LogStaticMesh: Built static mesh [0.03s] /Game/Meshes/CONSUME_POTION.CONSUME_POTION
+[2020.11.30-09.36.41:470][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/CONSUME_POTION" FILE="../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Meshes/CONSUME_POTION.uasset" SILENT=true
+[2020.11.30-09.36.41:499][115]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/CONSUME_POTIONA57FE4834BD5528718D8DE9DC8B22ABE.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Meshes/CONSUME_POTION.uasset'
+[2020.11.30-09.36.41:512][115]AssetCheck: New page: Asset Save: CONSUME_POTION
+[2020.11.30-09.36.41:512][115]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/CONSUME_POTION.CONSUME_POTION
+[2020.11.30-09.36.42:698][250]LogSlate: Window 'CONSUME_POTION' being destroyed
+[2020.11.30-09.36.42:719][250]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.11.30-09.36.42:719][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.30-09.36.45:090][515]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2020.11.30-09.36.45:950][515]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.30-09.36.46:034][515]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.11.30-09.36.46:068][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.11.30-09.36.46:098][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.11.30-09.37.20:441][574]LogMetaData: Removing '/Game/Blueprints/Items/ManaPotion.ManaPotion_C' ref from Metadata '/Game/ManaPotion.PackageMetaData'
+[2020.11.30-09.37.20:441][574]LogMetaData: Removing '/Game/Blueprints/Items/ManaPotion.SKEL_ManaPotion_C' ref from Metadata '/Game/ManaPotion.PackageMetaData'
+[2020.11.30-09.37.20:441][574]LogMetaData: Removing '/Game/Blueprints/Items/ManaPotion.ManaPotion_C:ReceiveTick' ref from Metadata '/Game/ManaPotion.PackageMetaData'
+[2020.11.30-09.37.20:441][574]LogMetaData: Removing '/Game/Blueprints/Items/ManaPotion.SKEL_ManaPotion_C:UseItem' ref from Metadata '/Game/ManaPotion.PackageMetaData'
+[2020.11.30-09.37.20:441][574]LogMetaData: Removing '/Game/Blueprints/Items/ManaPotion.SKEL_ManaPotion_C:ReceiveTick' ref from Metadata '/Game/ManaPotion.PackageMetaData'
+[2020.11.30-09.37.20:441][574]LogMetaData: Removing '/Game/Blueprints/Items/ManaPotion.SKEL_ManaPotion_C:UserConstructionScript' ref from Metadata '/Game/ManaPotion.PackageMetaData'
+[2020.11.30-09.37.20:447][574]LogMetaData: Removing '/Game/Blueprints/Items/StaminaPotion.StaminaPotion_C' ref from Metadata '/Game/StaminaPotion.PackageMetaData'
+[2020.11.30-09.37.20:447][574]LogMetaData: Removing '/Game/Blueprints/Items/StaminaPotion.SKEL_StaminaPotion_C' ref from Metadata '/Game/StaminaPotion.PackageMetaData'
+[2020.11.30-09.37.20:447][574]LogMetaData: Removing '/Game/Blueprints/Items/StaminaPotion.StaminaPotion_C:ReceiveTick' ref from Metadata '/Game/StaminaPotion.PackageMetaData'
+[2020.11.30-09.37.20:447][574]LogMetaData: Removing '/Game/Blueprints/Items/StaminaPotion.SKEL_StaminaPotion_C:UseItem' ref from Metadata '/Game/StaminaPotion.PackageMetaData'
+[2020.11.30-09.37.20:447][574]LogMetaData: Removing '/Game/Blueprints/Items/StaminaPotion.SKEL_StaminaPotion_C:ReceiveTick' ref from Metadata '/Game/StaminaPotion.PackageMetaData'
+[2020.11.30-09.37.20:447][574]LogMetaData: Removing '/Game/Blueprints/Items/StaminaPotion.SKEL_StaminaPotion_C:UserConstructionScript' ref from Metadata '/Game/StaminaPotion.PackageMetaData'
+[2020.11.30-09.37.20:453][574]LogMetaData: Removing '/Game/Blueprints/Items/HealthPotion.HealthPotion_C' ref from Metadata '/Game/HealthPotion.PackageMetaData'
+[2020.11.30-09.37.20:453][574]LogMetaData: Removing '/Game/Blueprints/Items/HealthPotion.HealthPotion:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/HealthPotion.PackageMetaData'
+[2020.11.30-09.37.20:453][574]LogMetaData: Removing '/Game/Blueprints/Items/HealthPotion.SKEL_HealthPotion_C' ref from Metadata '/Game/HealthPotion.PackageMetaData'
+[2020.11.30-09.37.20:453][574]LogMetaData: Removing '/Game/Blueprints/Items/HealthPotion.HealthPotion_C:ReceiveTick' ref from Metadata '/Game/HealthPotion.PackageMetaData'
+[2020.11.30-09.37.20:453][574]LogMetaData: Removing '/Game/Blueprints/Items/HealthPotion.SKEL_HealthPotion_C:UseItem' ref from Metadata '/Game/HealthPotion.PackageMetaData'
+[2020.11.30-09.37.20:453][574]LogMetaData: Removing '/Game/Blueprints/Items/HealthPotion.SKEL_HealthPotion_C:ReceiveTick' ref from Metadata '/Game/HealthPotion.PackageMetaData'
+[2020.11.30-09.37.20:453][574]LogMetaData: Removing '/Game/Blueprints/Items/HealthPotion.SKEL_HealthPotion_C:UserConstructionScript' ref from Metadata '/Game/HealthPotion.PackageMetaData'
+[2020.11.30-09.37.20:488][574]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/ManaPotion07CE4D79432B3C88AD7640BEA870E2ED.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Blueprints/Items/ManaPotion.uasset'
+[2020.11.30-09.37.20:504][574]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/StaminaPotionC582B9F342ADAFAE5C9928BA7AC8988E.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Blueprints/Items/StaminaPotion.uasset'
+[2020.11.30-09.37.20:521][574]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/HealthPotion0AEFAE8F4704D4EFD3A6B3B662FF3339.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Blueprints/Items/HealthPotion.uasset'
+[2020.11.30-09.37.20:522][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthPotion" FILE="../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/HealthPotion.uasset" SILENT=true
+[2020.11.30-09.37.20:541][574]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/HealthPotion217C49E04D98F7CA4A38C2A99F20E3C7.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/HealthPotion.uasset'
+[2020.11.30-09.37.20:862][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.11.30-09.37.20:893][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.11.30-09.37.20:932][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.11.30-09.37.20:959][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.11.30-09.37.21:028][574]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.30-09.37.21:028][574]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/ManaPotion.ManaPotion
+[2020.11.30-09.37.21:028][574]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/StaminaPotion.StaminaPotion
+[2020.11.30-09.37.21:028][574]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/HealthPotion.HealthPotion
+[2020.11.30-09.37.21:028][574]LogContentValidation: Display: Validating ObjectRedirector /Game/HealthPotion.HealthPotion
+[2020.11.30-09.37.21:028][574]LogContentValidation: Display: Validating ObjectRedirector /Game/HealthPotion.Default__HealthPotion_C
+[2020.11.30-09.37.21:028][574]LogContentValidation: Display: Validating ObjectRedirector /Game/HealthPotion.HealthPotion_C
+[2020.11.30-09.37.37:916][555]LogMetaData: Removing '/Game/Blueprints/UI/InventorySlot.InventorySlot_C' ref from Metadata '/Game/InventorySlot.PackageMetaData'
+[2020.11.30-09.37.37:916][555]LogMetaData: Removing '/Game/Blueprints/UI/InventorySlot.InventorySlot:HideAllUse/DropMenus.K2Node_FunctionEntry_0' ref from Metadata '/Game/InventorySlot.PackageMetaData'
+[2020.11.30-09.37.37:916][555]LogMetaData: Removing '/Game/Blueprints/UI/InventorySlot.SKEL_InventorySlot_C' ref from Metadata '/Game/InventorySlot.PackageMetaData'
+[2020.11.30-09.37.37:916][555]LogMetaData: Removing '/Game/Blueprints/UI/InventorySlot.SKEL_InventorySlot_C:Construct' ref from Metadata '/Game/InventorySlot.PackageMetaData'
+[2020.11.30-09.37.37:916][555]LogMetaData: Removing '/Game/Blueprints/UI/InventorySlot.SKEL_InventorySlot_C:SetItem' ref from Metadata '/Game/InventorySlot.PackageMetaData'
+[2020.11.30-09.37.37:916][555]LogMetaData: Removing '/Game/Blueprints/UI/InventorySlot.SKEL_InventorySlot_C:BndEvt__Button_149_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/InventorySlot.PackageMetaData'
+[2020.11.30-09.37.37:916][555]LogMetaData: Removing '/Game/Blueprints/UI/InventorySlot.SKEL_InventorySlot_C:Hide' ref from Metadata '/Game/InventorySlot.PackageMetaData'
+[2020.11.30-09.37.37:916][555]LogMetaData: Removing '/Game/Blueprints/UI/InventorySlot.SKEL_InventorySlot_C:DropClicked' ref from Metadata '/Game/InventorySlot.PackageMetaData'
+[2020.11.30-09.37.37:916][555]LogMetaData: Removing '/Game/Blueprints/UI/InventorySlot.SKEL_InventorySlot_C:UseClick' ref from Metadata '/Game/InventorySlot.PackageMetaData'
+[2020.11.30-09.37.37:916][555]LogMetaData: Removing '/Game/Blueprints/UI/InventorySlot.SKEL_InventorySlot_C:RemoveItem' ref from Metadata '/Game/InventorySlot.PackageMetaData'
+[2020.11.30-09.37.37:916][555]LogMetaData: Removing '/Game/Blueprints/UI/InventorySlot.SKEL_InventorySlot_C:BndEvt__ItemButton_K2Node_ComponentBoundEvent_1_OnButtonHoverEvent__DelegateSignature' ref from Metadata '/Game/InventorySlot.PackageMetaData'
+[2020.11.30-09.37.37:916][555]LogMetaData: Removing '/Game/Blueprints/UI/InventorySlot.SKEL_InventorySlot_C:BndEvt__ItemButton_K2Node_ComponentBoundEvent_2_OnButtonHoverEvent__DelegateSignature' ref from Metadata '/Game/InventorySlot.PackageMetaData'
+[2020.11.30-09.37.37:916][555]LogMetaData: Removing '/Game/Blueprints/UI/InventorySlot.SKEL_InventorySlot_C:HideDescription' ref from Metadata '/Game/InventorySlot.PackageMetaData'
+[2020.11.30-09.37.37:916][555]LogMetaData: Removing '/Game/Blueprints/UI/InventorySlot.InventorySlot_C:Construct' ref from Metadata '/Game/InventorySlot.PackageMetaData'
+[2020.11.30-09.37.37:916][555]LogMetaData: Removing '/Game/Blueprints/UI/InventorySlot.InventorySlot_C:SetItem' ref from Metadata '/Game/InventorySlot.PackageMetaData'
+[2020.11.30-09.37.37:923][555]LogMetaData: Removing '/Game/Blueprints/UI/Inventory.Inventory_C' ref from Metadata '/Game/Inventory.PackageMetaData'
+[2020.11.30-09.37.37:923][555]LogMetaData: Removing '/Game/Blueprints/UI/Inventory.Inventory:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Inventory.PackageMetaData'
+[2020.11.30-09.37.37:923][555]LogMetaData: Removing '/Game/Blueprints/UI/Inventory.Inventory:CheckItemAlreadyExists.K2Node_FunctionEntry_0' ref from Metadata '/Game/Inventory.PackageMetaData'
+[2020.11.30-09.37.37:923][555]LogMetaData: Removing '/Game/Blueprints/UI/Inventory.SKEL_Inventory_C' ref from Metadata '/Game/Inventory.PackageMetaData'
+[2020.11.30-09.37.37:923][555]LogMetaData: Removing '/Game/Blueprints/UI/Inventory.SKEL_Inventory_C:CheckItemAlreadyExists' ref from Metadata '/Game/Inventory.PackageMetaData'
+[2020.11.30-09.37.37:923][555]LogMetaData: Removing '/Game/Blueprints/UI/Inventory.SKEL_Inventory_C:CheckAvailableSlot' ref from Metadata '/Game/Inventory.PackageMetaData'
+[2020.11.30-09.37.37:923][555]LogMetaData: Removing '/Game/Blueprints/UI/Inventory.SKEL_Inventory_C:AddToInventory' ref from Metadata '/Game/Inventory.PackageMetaData'
+[2020.11.30-09.37.37:923][555]LogMetaData: Removing '/Game/Blueprints/UI/Inventory.SKEL_Inventory_C:Construct' ref from Metadata '/Game/Inventory.PackageMetaData'
+[2020.11.30-09.37.37:923][555]LogMetaData: Removing '/Game/Blueprints/UI/Inventory.Inventory_C:Construct' ref from Metadata '/Game/Inventory.PackageMetaData'
+[2020.11.30-09.37.37:923][555]LogMetaData: Removing '/Game/Blueprints/UI/Inventory.Inventory_C:AddToInventory' ref from Metadata '/Game/Inventory.PackageMetaData'
+[2020.11.30-09.37.37:923][555]LogMetaData: Removing '/Game/Blueprints/UI/Inventory.Inventory_C:CheckItemAlreadyExists' ref from Metadata '/Game/Inventory.PackageMetaData'
+[2020.11.30-09.37.38:004][555]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/InventorySlot26635D7940BC7A16374209BD3EDC58D9.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Blueprints/UI/InventorySlot.uasset'
+[2020.11.30-09.37.38:005][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/Inventory" FILE="../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Blueprints/UI/Inventory.uasset" SILENT=true
+[2020.11.30-09.37.38:026][555]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/InventoryC941F15A42E7017D9BBDF78AD2CFF222.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Blueprints/UI/Inventory.uasset'
+[2020.11.30-09.37.38:351][555]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.11.30-09.37.38:383][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.11.30-09.37.38:421][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.11.30-09.37.38:450][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.11.30-09.37.38:461][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Item2" FILE="../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Item2.uasset" SILENT=true
+[2020.11.30-09.37.38:487][555]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/Item2DAC195D942CDB2E8C20ECEA9B935C593.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Item2.uasset'
+[2020.11.30-09.37.38:515][555]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/StaminaPotion6815CA17451C29DCA7E1CA9F8B0FBF63.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Blueprints/Items/StaminaPotion.uasset'
+[2020.11.30-09.37.38:579][555]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/ThirdPersonCharacterFE4BE6BD4DB29542EBCF7E9C075A698D.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.11.30-09.37.38:606][555]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/ManaPotion20631B14464A96E02C847EB86DCBF3A9.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Blueprints/Items/ManaPotion.uasset'
+[2020.11.30-09.37.38:630][555]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/HealthPotion0F4268934155126E668B189CB7F254EB.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Blueprints/Items/HealthPotion.uasset'
+[2020.11.30-09.37.38:719][555]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.30-09.37.38:719][555]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/InventorySlot.InventorySlot
+[2020.11.30-09.37.38:719][555]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/Inventory.Inventory
+[2020.11.30-09.37.38:719][555]LogContentValidation: Display: Validating Blueprint /Game/Item2.Item2
+[2020.11.30-09.37.38:719][555]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/StaminaPotion.StaminaPotion
+[2020.11.30-09.37.38:719][555]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.11.30-09.37.38:719][555]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/ManaPotion.ManaPotion
+[2020.11.30-09.37.38:719][555]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/HealthPotion.HealthPotion
+[2020.11.30-09.38.04:251][592]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.11.30-09.38.06:032][592]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.30-09.38.31:787][629]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.11.30-09.38.31:787][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.30-09.38.31:808][629]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.11.30-09.38.31:808][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.30-09.38.38:494][411]LogMetaData: Removing '/Game/Blueprints/UI/UseDropHUD.UseDropHUD_C' ref from Metadata '/Game/UseDropHUD.PackageMetaData'
+[2020.11.30-09.38.38:494][411]LogMetaData: Removing '/Game/Blueprints/UI/UseDropHUD.SKEL_UseDropHUD_C' ref from Metadata '/Game/UseDropHUD.PackageMetaData'
+[2020.11.30-09.38.38:512][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/UseDropHUD" FILE="../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Blueprints/UI/UseDropHUD.uasset" SILENT=true
+[2020.11.30-09.38.38:521][411]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/UseDropHUD1BDA80FF41A658EAFCB35B8DE11C258E.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Blueprints/UI/UseDropHUD.uasset'
+[2020.11.30-09.38.38:722][411]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.11.30-09.38.38:776][411]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.11.30-09.38.38:798][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.30-09.38.38:854][411]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/InventorySlot0081D30249A78EC38C23DC9157291760.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Blueprints/UI/InventorySlot.uasset'
+[2020.11.30-09.38.38:912][411]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.30-09.38.38:912][411]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/UseDropHUD.UseDropHUD
+[2020.11.30-09.38.38:912][411]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/InventorySlot.InventorySlot
+[2020.11.30-09.38.49:099][610]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.11.30-09.38.50:944][610]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.30-09.38.54:919][ 74]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/InventorySlot.InventorySlot
+[2020.11.30-09.40.49:639][731]Cmd: DELETE
+[2020.11.30-09.40.49:639][731]Cmd: ACTOR DELETE
+[2020.11.30-09.40.49:640][731]LogEditorActor: Deleted Actor: HealthPotion_C
+[2020.11.30-09.40.49:669][731]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.11.30-09.40.49:671][731]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.11.30-09.40.50:282][804]LogEditorViewport: Clicking on Actor (LMB): HealthPotion_C (Item_Mesh3)
+[2020.11.30-09.40.50:451][822]Cmd: DELETE
+[2020.11.30-09.40.50:451][822]Cmd: ACTOR DELETE
+[2020.11.30-09.40.50:452][822]LogEditorActor: Deleted Actor: HealthPotion_C
+[2020.11.30-09.40.50:479][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.11.30-09.40.50:480][822]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.11.30-09.40.51:122][899]LogEditorViewport: Clicking on Actor (LMB): HealthPotion_C (Item_Mesh)
+[2020.11.30-09.40.51:508][943]Cmd: DELETE
+[2020.11.30-09.40.51:508][943]Cmd: ACTOR DELETE
+[2020.11.30-09.40.51:509][943]LogEditorActor: Deleted Actor: HealthPotion_C
+[2020.11.30-09.40.51:537][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.11.30-09.40.51:538][943]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.11.30-09.40.54:149][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.11.30-09.40.54:190][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.11.30-09.40.54:241][246]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/ThirdPersonExampleMapDA386AB947531AEE17C275A874228E82.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.30-09.40.54:271][246]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.109
+[2020.11.30-09.40.54:323][246]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/ThirdPersonExampleMap_BuiltData224ADCE14540FB0957B6E49299BBA7BA.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.11.30-09.40.54:348][246]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.30-09.40.54:348][246]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.30-09.40.54:348][246]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.11.30-09.40.56:299][475]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.11.30-09.41.03:247][475]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.30-09.41.26:392][206]LogSlate: Window 'Reference Viewer' being destroyed
+[2020.11.30-09.41.28:155][416]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.11.30-09.41.29:006][504]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.11.30-09.41.45:131][355]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.11.30-09.41.45:278][355]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.11.30-09.41.47:762][627]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/ThirdPersonCharacter7CF3336C4C12CF18349E8E98B58D7BA0.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.11.30-09.41.47:777][627]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.11.30-09.41.47:778][627]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.11.30-09.41.55:108][498]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.11.30-09.41.55:108][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.30-09.41.56:479][640]BlueprintLog: New page: Compile InventorySlot
+[2020.11.30-09.41.56:557][640]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.11.30-09.41.56:944][663]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/InventorySlot474849D345210557541AC6AE0A2D9236.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Blueprints/UI/InventorySlot.uasset'
+[2020.11.30-09.41.56:961][663]AssetCheck: New page: Asset Save: InventorySlot
+[2020.11.30-09.41.56:961][663]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/InventorySlot.InventorySlot
+[2020.11.30-09.41.57:674][744]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.11.30-09.41.57:674][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.30-09.41.57:693][744]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.11.30-09.41.57:693][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.30-09.41.58:676][851]BlueprintLog: New page: Compile Inventory
+[2020.11.30-09.41.58:729][851]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.11.30-09.41.59:140][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/Inventory" FILE="../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Blueprints/UI/Inventory.uasset" SILENT=true
+[2020.11.30-09.41.59:172][891]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/Inventory4CCE39CB4671D27465F85FBE8EB8C145.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Blueprints/UI/Inventory.uasset'
+[2020.11.30-09.41.59:187][891]AssetCheck: New page: Asset Save: Inventory
+[2020.11.30-09.41.59:187][891]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/Inventory.Inventory
+[2020.11.30-09.41.59:802][960]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.11.30-09.41.59:802][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.30-09.41.59:821][960]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.11.30-09.41.59:821][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.30-09.42.01:653][154]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.11.30-09.42.06:144][154]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.30-09.42.10:121][154]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Item2.Item2
+[2020.11.30-09.42.10:529][154]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.11.30-09.42.10:548][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.11.30-09.42.10:565][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.11.30-09.42.17:634][960]LogMetaData: Removing '/Game/Blueprints/Struct_ItemInfo.Struct_ItemInfo' ref from Metadata '/Game/Struct_ItemInfo.PackageMetaData'
+[2020.11.30-09.42.17:646][960]LogMetaData: Removing '/Game/Blueprints/InventoryInst.InventoryInst_C' ref from Metadata '/Game/InventoryInst.PackageMetaData'
+[2020.11.30-09.42.17:646][960]LogMetaData: Removing '/Game/Blueprints/InventoryInst.SKEL_InventoryInst_C' ref from Metadata '/Game/InventoryInst.PackageMetaData'
+[2020.11.30-09.42.17:653][960]LogMetaData: Removing '/Game/Blueprints/InteractInterface.InteractInterface_C' ref from Metadata '/Game/InteractInterface.PackageMetaData'
+[2020.11.30-09.42.17:653][960]LogMetaData: Removing '/Game/Blueprints/InteractInterface.InteractInterface:Interact.K2Node_FunctionEntry_0' ref from Metadata '/Game/InteractInterface.PackageMetaData'
+[2020.11.30-09.42.17:653][960]LogMetaData: Removing '/Game/Blueprints/InteractInterface.SKEL_InteractInterface_C' ref from Metadata '/Game/InteractInterface.PackageMetaData'
+[2020.11.30-09.42.17:686][960]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/Struct_ItemInfo72D8829D4CE9C4F77DE76E9AD460E43A.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Blueprints/Struct_ItemInfo.uasset'
+[2020.11.30-09.42.17:687][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/InventoryInst" FILE="../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Blueprints/InventoryInst.uasset" SILENT=true
+[2020.11.30-09.42.17:709][960]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/InventoryInst160D6E6146B1D49920B375898EA2FE4D.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Blueprints/InventoryInst.uasset'
+[2020.11.30-09.42.17:717][960]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/InteractInterface2BE40DCF4E495AA115B4DB99E44706F7.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Blueprints/InteractInterface.uasset'
+[2020.11.30-09.42.17:988][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.11.30-09.42.18:007][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.11.30-09.42.18:025][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.11.30-09.42.18:046][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.11.30-09.42.18:064][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.11.30-09.42.18:120][960]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/InventorySlot586C08B344744E9FE5ED06B17A282E35.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Blueprints/UI/InventorySlot.uasset'
+[2020.11.30-09.42.18:122][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/Inventory" FILE="../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Blueprints/UI/Inventory.uasset" SILENT=true
+[2020.11.30-09.42.18:149][960]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/InventoryF13795624790A1F629F330906B72DCC8.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Blueprints/UI/Inventory.uasset'
+[2020.11.30-09.42.18:172][960]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/StaminaPotion4BF0D4984FB2399D08728D927B6DA237.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Blueprints/Items/StaminaPotion.uasset'
+[2020.11.30-09.42.18:174][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DataTutorial/Item" FILE="../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/DataTutorial/Item.uasset" SILENT=true
+[2020.11.30-09.42.18:196][960]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/Item5B33AF1F4C44DFB83724D3B8DC473D63.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/DataTutorial/Item.uasset'
+[2020.11.30-09.42.18:222][960]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/HealthPotion459F28D24292A6B1BD8AEEB3819CCCA7.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Blueprints/Items/HealthPotion.uasset'
+[2020.11.30-09.42.18:245][960]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/ManaPotion972AE8B74FE847E9E2BF1FBF38183111.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Blueprints/Items/ManaPotion.uasset'
+[2020.11.30-09.42.18:302][960]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/ThirdPersonCharacterC8F4C86C4F7343A98CB78BB2547EF4D4.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.11.30-09.42.18:382][960]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.30-09.42.18:383][960]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Struct_ItemInfo.Struct_ItemInfo
+[2020.11.30-09.42.18:383][960]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/InventoryInst.InventoryInst
+[2020.11.30-09.42.18:383][960]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/InteractInterface.InteractInterface
+[2020.11.30-09.42.18:383][960]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/InventorySlot.InventorySlot
+[2020.11.30-09.42.18:383][960]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/Inventory.Inventory
+[2020.11.30-09.42.18:383][960]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/StaminaPotion.StaminaPotion
+[2020.11.30-09.42.18:383][960]LogContentValidation: Display: Validating Blueprint /Game/DataTutorial/Item.Item
+[2020.11.30-09.42.18:383][960]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/HealthPotion.HealthPotion
+[2020.11.30-09.42.18:383][960]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/ManaPotion.ManaPotion
+[2020.11.30-09.42.18:383][960]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.11.30-09.42.21:372][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.11.30-09.42.26:059][301]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.30-09.42.27:278][423]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DataTutorial/Item.Item
+[2020.11.30-09.42.30:425][707]LogSlate: Window 'Item' being destroyed
+[2020.11.30-09.42.39:236][735]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/HealthPotion.HealthPotion
+[2020.11.30-09.42.48:536][795]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.11.30-09.42.48:536][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.30-09.43.00:256][163]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.11.30-09.43.02:263][163]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.30-09.43.05:906][163]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.11.30-09.43.05:906][163]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.11.30-09.43.05:906][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.30-09.43.05:956][163]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/DataTutorial/Item.Item
+[2020.11.30-09.43.05:974][163]LogBlueprint: Warning: [Compiler ] Pasted node  Interact_1   conflicted with  Event Interact  and was replaced as a Custom Event!
+[2020.11.30-09.43.05:975][163]LogBlueprint: Warning: [Compiler HealthPotion] Could not find a variable named "DefaultSceneRoot" in 'HealthPotion_C'.
+Make sure 'HealthPotion_C' has been compiled for  Get DefaultSceneRoot
+[2020.11.30-09.43.05:975][163]LogBlueprint: Error: [Compiler HealthPotion] This blueprint (self) is not a Item_C, therefore ' Target ' must have a connection.
+[2020.11.30-09.43.05:982][163]LogBlueprint: Warning: [Compiler ] Pasted node  Interact_1   conflicted with  Event Interact  and was replaced as a Custom Event!
+[2020.11.30-09.43.05:983][163]LogBlueprint: Warning: [Compiler StaminaPotion] Could not find a variable named "DefaultSceneRoot" in 'StaminaPotion_C'.
+Make sure 'StaminaPotion_C' has been compiled for  Get DefaultSceneRoot
+[2020.11.30-09.43.05:983][163]LogBlueprint: Error: [Compiler StaminaPotion] This blueprint (self) is not a Item_C, therefore ' Target ' must have a connection.
+[2020.11.30-09.43.05:985][163]LogBlueprint: Warning: [Compiler ] Pasted node  Interact_1   conflicted with  Event Interact  and was replaced as a Custom Event!
+[2020.11.30-09.43.05:986][163]LogBlueprint: Warning: [Compiler ManaPotion] Could not find a variable named "DefaultSceneRoot" in 'ManaPotion_C'.
+Make sure 'ManaPotion_C' has been compiled for  Get DefaultSceneRoot
+[2020.11.30-09.43.05:987][163]LogBlueprint: Error: [Compiler ManaPotion] This blueprint (self) is not a Item_C, therefore ' Target ' must have a connection.
+[2020.11.30-09.43.06:158][163]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.11.30-09.43.06:327][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.11.30-09.43.06:345][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.11.30-09.43.06:362][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.11.30-09.43.11:933][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.11.30-09.43.12:790][794]LogSlate: Window 'Save Content' being destroyed
+[2020.11.30-09.43.12:838][794]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/HealthPotionC121B849421398F72A205FA10E65B0F3.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Blueprints/Items/HealthPotion.uasset'
+[2020.11.30-09.43.12:866][794]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/ManaPotionB6DBA030436F287C4D09418E67410218.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Blueprints/Items/ManaPotion.uasset'
+[2020.11.30-09.43.12:894][794]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/StaminaPotion143922794DAC88F07E5FC2A37BE29CA6.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Blueprints/Items/StaminaPotion.uasset'
+[2020.11.30-09.43.12:912][794]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/Struct_ItemInfoB5EAA05143C7301132153595BF0532C8.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Blueprints/Struct_ItemInfo.uasset'
+[2020.11.30-09.43.12:958][794]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/InventorySlot8E0CFB7E4E7BFB8C5BCE6F83C602E625.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/Blueprints/UI/InventorySlot.uasset'
+[2020.11.30-09.43.12:977][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.11.30-09.43.13:004][794]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/ThirdPersonExampleMap23C35C5046443292818419A7EE22FDBE.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.30-09.43.13:036][794]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.076
+[2020.11.30-09.43.13:082][794]LogSavePackage: Moving '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Saved/ThirdPersonExampleMap_BuiltData00DE52BB4406BBD985C8779173C7D0FD.tmp' to '../../../../../../Users/jon_m/Documents/Unreal Engine Projects/InventorySystemTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.11.30-09.43.13:110][794]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.30-09.43.13:110][794]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/HealthPotion.HealthPotion
+[2020.11.30-09.43.13:110][794]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/ManaPotion.ManaPotion
+[2020.11.30-09.43.13:110][794]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/StaminaPotion.StaminaPotion
+[2020.11.30-09.43.13:110][794]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Struct_ItemInfo.Struct_ItemInfo
+[2020.11.30-09.43.13:110][794]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/InventorySlot.InventorySlot
+[2020.11.30-09.43.13:110][794]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.30-09.43.13:110][794]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.11.30-09.43.18:995][449]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/HealthPotion.HealthPotion
+[2020.11.30-09.43.20:784][612]LogSlate: Window 'HealthPotion' being destroyed
+[2020.11.30-09.43.48:296][868]BlueprintLog: New page: Compile HealthPotion
+[2020.11.30-09.43.48:312][868]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.11.30-09.43.48:592][868]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.280 s
+[2020.11.30-09.43.48:592][868]LogOutputDevice: Error: === Handled ensure: ===
+[2020.11.30-09.43.48:592][868]LogOutputDevice: Error: 
+[2020.11.30-09.43.48:592][868]LogOutputDevice: Error: Ensure condition failed: !OwnerClass || !OwnerClass->GetClass()->IsChildOf<UBlueprintGeneratedClass>() || OwnerClass->ClassGeneratedBy [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/BlueprintEditorUtils.cpp] [Line: 641]
+[2020.11.30-09.43.48:592][868]LogOutputDevice: Error: Malformed Blueprint class (DEADCLASS_Item_C_4) - bad node dependency, unable to determine if the K2Node_SpawnActorFromClass node (/Game/Blueprints/UI/InventorySlot.InventorySlot:EventGraph.K2Node_SpawnActorFromClass_0) should be refreshed or not. Currently compiling: InventorySlot
+[2020.11.30-09.43.48:592][868]LogOutputDevice: Error: Stack: 
+[2020.11.30-09.43.48:592][868]LogOutputDevice: Error: [Callstack] 0x00007ff86cdb0a8e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.30-09.43.48:592][868]LogOutputDevice: Error: [Callstack] 0x00007ff86c5836b1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.30-09.43.48:592][868]LogOutputDevice: Error: [Callstack] 0x00007ff86adcc61b UE4Editor-Kismet.dll!UnknownFunction []
+[2020.11.30-09.43.48:592][868]LogOutputDevice: Error: [Callstack] 0x00007ff86ad76b5f UE4Editor-Kismet.dll!UnknownFunction []
+[2020.11.30-09.43.48:592][868]LogOutputDevice: Error: [Callstack] 0x00007ff86ad768a1 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.11.30-09.43.48:592][868]LogOutputDevice: Error: [Callstack] 0x00007ff86c5cb1de UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.30-09.43.48:592][868]LogOutputDevice: Error: [Callstack] 0x00007ff86ae76b20 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.11.30-09.43.48:592][868]LogOutputDevice: Error: [Callstack] 0x00007ff86ae9255e UE4Editor-Kismet.dll!UnknownFunction []
+[2020.11.30-09.43.48:592][868]LogOutputDevice: Error: [Callstack] 0x00007ff8736ef238 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.30-09.43.48:592][868]LogOutputDevice: Error: [Callstack] 0x00007ff8737db0a9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.30-09.43.48:592][868]LogOutputDevice: Error: [Callstack] 0x00007ff8737bae07 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.30-09.43.48:592][868]LogOutputDevice: Error: [Callstack] 0x00007ff87385207e UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.30-09.43.48:592][868]LogOutputDevice: Error: [Callstack] 0x00007ff87386b27e UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.30-09.43.48:593][868]LogOutputDevice: Error: [Callstack] 0x00007ff8736b2dc8 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.30-09.43.48:593][868]LogOutputDevice: Error: [Callstack] 0x00007ff8737369cf UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.30-09.43.48:593][868]LogOutputDevice: Error: [Callstack] 0x00007ff87371f4b2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.30-09.43.48:593][868]LogOutputDevice: Error: [Callstack] 0x00007ff873712392 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.30-09.43.48:593][868]LogOutputDevice: Error: [Callstack] 0x00007ff8c22f7f88 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.30-09.43.48:593][868]LogOutputDevice: Error: [Callstack] 0x00007ff8c22e5c87 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.30-09.43.48:593][868]LogOutputDevice: Error: [Callstack] 0x00007ff8c22fa619 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.30-09.43.48:593][868]LogOutputDevice: Error: [Callstack] 0x00007ff8c22e17d0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.30-09.43.48:593][868]LogOutputDevice: Error: [Callstack] 0x00007ff8e8d1e858 USER32.dll!UnknownFunction []
+[2020.11.30-09.43.48:593][868]LogOutputDevice: Error: [Callstack] 0x00007ff8e8d1e299 USER32.dll!UnknownFunction []
+[2020.11.30-09.43.48:593][868]LogOutputDevice: Error: [Callstack] 0x00007ff8c22fbb34 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.30-09.43.48:593][868]LogOutputDevice: Error: [Callstack] 0x00007ff6a53868c4 UE4Editor.exe!UnknownFunction []
+[2020.11.30-09.43.48:593][868]LogOutputDevice: Error: [Callstack] 0x00007ff6a539ba7c UE4Editor.exe!UnknownFunction []
+[2020.11.30-09.43.48:593][868]LogOutputDevice: Error: [Callstack] 0x00007ff6a539bb5a UE4Editor.exe!UnknownFunction []
+[2020.11.30-09.43.48:593][868]LogOutputDevice: Error: [Callstack] 0x00007ff6a53ae31d UE4Editor.exe!UnknownFunction []
+[2020.11.30-09.43.48:593][868]LogOutputDevice: Error: [Callstack] 0x00007ff6a53b145a UE4Editor.exe!UnknownFunction []
+[2020.11.30-09.43.48:593][868]LogOutputDevice: Error: [Callstack] 0x00007ff8e9417034 KERNEL32.DLL!UnknownFunction []
+[2020.11.30-09.43.48:593][868]LogOutputDevice: Error: [Callstack] 0x00007ff8eacfcec1 ntdll.dll!UnknownFunction []
+[2020.11.30-09.43.48:593][868]LogOutputDevice: Error: 
+[2020.11.30-09.43.48:600][868]LogStats:                SubmitErrorReport -  0.000 s
+[2020.11.30-09.43.49:529][868]LogStats:                    SendNewReport -  0.930 s
+[2020.11.30-09.43.49:529][868]LogStats:             FDebug::EnsureFailed -  1.217 s
+[2020.11.30-09.43.49:532][868]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.11.30-09.43.49:532][868]LogWindows: Windows GetLastError: The operation completed successfully. (0)
